@@ -1,0 +1,22 @@
+body {
+  background-color: #DFFFDF;
+  padding: 0%;
+  margin: 0%;
+}
+
+h1 {
+  text-align: center;
+  font-family: calibri;
+}
+
+h2 {
+  text-align: center;
+  font-family: calibri;
+}
+
+#loadingBar {
+  position: absolute;
+  background-color: #0F0;
+  height: 10%;
+  margin-left: 1%;
+}

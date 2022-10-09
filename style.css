@@ -1,0 +1,25 @@
+#eric a {
+  color: #55dd55;
+}
+
+h1 {
+  text-align:center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.background {
+  padding-top: 1rem;
+  padding-bottom: 1rem; 
+  padding-left: 2rem;
+  padding-right: 2rem; 
+  background-image: linear-gradient(to right, var(--tw-gradient-stops)); 
+  background-color: #A78BFA; 
+  background-color: #60A5FA; 
+  color: #ffffff; 
+  font-weight: 700; 
+  border-radius: 0.75rem; 
+
+}

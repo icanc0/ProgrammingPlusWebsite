@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <h1>Programming Plus Club</h1>
+  <h2>About Programming Plus</h2>
+  <p>Insert Information About Club</p>
+  <p class="background">
+    <a href ="template.html">Name</a>
+    <a href ="jonathan.html">Jonathan </a>
+    <a href ="logan.html">logan</a>
+
+    <a href="dripstaralvin.html">Alvin is coolest</a>
+    <p id='eric'><a href="eric-zhang.html">Eric Zhang</a></p>
+    <p><a href="tarun.html"Tarun Tammali</a></p>
+    <
+   <p><a> href="Samarth.html"Samarth Manjunath</a></p>
+
+    <p><a href="zoe.html"Zoe Tavares</a></p>
+    <p><a href=¨miraya.html¨Miraya >Mahajan</a></p>
+  
+
+      
+
+  
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
